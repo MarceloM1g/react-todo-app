@@ -9,5 +9,6 @@
 ```bash
 # Instalar Dependências
 npm install
+
 # Rodar o Programa
 npm run dev
